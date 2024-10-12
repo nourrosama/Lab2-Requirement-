@@ -24,7 +24,10 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
 ```bash
  pip install flask
  ```
-To run the project, write the following command in the terminal:
+  To run the project, write the following command in the terminal:
 ```bash
 python server.py
 ```
+  The application will launch, and you can access it in your browser at: `http://127.0.0.1:5000`.
+## Usage
+Once the server is running
