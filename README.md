@@ -15,5 +15,5 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
 
 ## Installation
 To run this application locally, follow these steps:
-  - 1.Clone this repository:
+  ### 1.Clone this repository:
 
