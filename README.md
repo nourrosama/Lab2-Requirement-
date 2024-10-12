@@ -2,7 +2,7 @@
 ## PROJECT OVERVIEW
 This project is a simple web application built using HTML, CSS, and Flask. The primary goal is to create a functional application that handles user input via forms, processes the data on the back-end using Flask, and displays the results.
 
-### Features
+## Features
 - **Front-End:**
   - `HTML` User input forms, buttons, and other relevant elements.
   - `CSS` Basic styling for clean and readable layouts.
@@ -12,3 +12,8 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
       - Processes and validates user inputs.
       - Displays results or responds to user interactions.
       - Organizes the application into distinct sections such as templates and static files.
+
+## Installation
+To run this application locally, follow these steps:
+  - 1.Clone this repository:
+
