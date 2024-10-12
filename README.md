@@ -24,7 +24,6 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
 ```bash
  pip install flask
  ```
-## Usage
 To run the project, write the following command in the terminal:
 ```bash
 python server.py
