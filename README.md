@@ -1,6 +1,6 @@
 # Lab2-Requirement-
 ## PROJECT OVERVIEW
-This project is a simple web application built using HTML, CSS, and Flask. The primary goal is to create a functional application that handles user input via forms, processes the data on the back-end using Flask, and displays the results.
+This project is a simple web application built using HTML, CSS, and Flask. The primary goal is to create a functional application that handles user input via forms, processes the data on the back end using Flask, and displays the results.
 
 ## Features
 - **Front-End:**
@@ -24,10 +24,10 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
 ```bash
  pip install flask
  ```
-  To run the project, write the following command in the terminal:
+3. To run the project, write the following command in the terminal:
 ```bash
 python server.py
 ```
-  The application will launch, and you can access it in your browser at: `http://127.0.0.1:5000`.
+4. The application will start, and you can access it in your browser at: `http://127.0.0.1:5000`.
 ## Usage
-Once the server is running
+Once the server is launched, you can fill in your information in the form and the data will be processed by flask and displayed on another page.
