@@ -13,9 +13,19 @@ This project is a simple web application built using HTML, CSS, and Flask. The p
       - Displays results or responds to user interactions.
       - Organizes the application into distinct sections such as templates and static files.
 
-## Installation
-To run this application locally, follow these steps:
-  ### 1.Clone this repository:
-    - `git clone https://github.com/nourrosama/Lab2-Requirement`
-    - `cd project-name`
+## Installation 
+1. Clone the repository:
+```bash
+ git clone https://github.com/nourrosama/Lab2-Requirement
+ cd your-repo
+```
 
+2. Install dependencies:
+```bash
+ pip install flask
+ ```
+## Usage
+To run the project, use the following command:
+```bash
+npm start
+```
